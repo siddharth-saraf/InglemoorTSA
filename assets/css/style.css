@@ -1,0 +1,18 @@
+/* Custom styles */
+
+/* General Styles */
+.main {
+	margin-top: 25px;
+}
+
+.brand .n-logo{
+	max-width: 100px;
+	margin-bottom: 5px;
+	margin-top: 80px;
+}
+
+/* About Page */
+
+.briefAbout{
+	margin-bottom: 30px;
+}

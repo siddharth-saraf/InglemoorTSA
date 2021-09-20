@@ -5614,15 +5614,15 @@ img {
   box-shadow: 0px 5px 50px 0px rgba(0, 0, 0, 0.2);
 }
 
-.index-page .page-header {
+.page .page-header {
   height: 125vh;
 }
 
-.index-page .page-header .container>.content-center {
+.page .page-header .container>.content-center {
   top: 37%;
 }
 
-.index-page .page-header .category-absolute {
+.page .page-header .category-absolute {
   position: absolute;
   top: 100vh;
   margin-top: -60px;
@@ -7314,7 +7314,7 @@ img {
     right: 21%;
     top: 55%;
   }
-  .index-page .category-absolute {
+  .page .category-absolute {
     top: 90vh;
   }
 }
@@ -7329,7 +7329,7 @@ img {
 }
 
 @media only screen and (min-height: 950px) {
-  .index-page .page-header .category-absolute {
+  .page .page-header .category-absolute {
     margin-top: -330px;
   }
 }

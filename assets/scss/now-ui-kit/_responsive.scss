@@ -391,7 +391,7 @@ and ( orientation : portrait){
         top: 55%;
     }
 
-    .index-page .category-absolute{
+    .page .category-absolute{
         top: 90vh;
     }
 }
@@ -408,7 +408,7 @@ and ( orientation : portrait){
 }
 
 @media only screen and (min-height: 950px) {
-  .index-page .page-header .category-absolute{
+  .page .page-header .category-absolute{
     margin-top: -330px;
   }
 }
