@@ -16,3 +16,14 @@
 .briefAbout{
 	margin-bottom: 30px;
 }
+
+.officers .team-player{
+	text-align: center;
+	height: 90%;
+}
+
+.officers .team-player img{
+	width: 85%;
+	border-radius: 20%;
+	height: 85%;
+}
