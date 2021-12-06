@@ -26,4 +26,12 @@
 	width: 85%;
 	border-radius: 20%;
 	height: 85%;
+	object-fit: cover;
 }
+
+.officers .row {
+	margin-top: 20px;
+	margin-bottom: 35px;
+}
+
+
