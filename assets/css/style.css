@@ -11,6 +11,12 @@
 	margin-top: 80px;
 }
 
+/* Home Page */
+.home .contactInfo{
+	background-color: #34495e;
+	color: #fff;
+}
+
 /* About Page */
 
 .briefAbout{
