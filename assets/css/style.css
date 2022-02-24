@@ -57,13 +57,13 @@
 }
 
 .profile-name {
-    font-size: 18px;
+    font-size: 15px;
     color: #616161
 }
 
 .profile-name .name{
 	color: black;
-	font-size: 22px;
+	font-size: 20px;
 	font-weight: bold;
 }
 
