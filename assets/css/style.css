@@ -17,6 +17,66 @@
 	color: #fff;
 }
 
+.testi{
+	position: relative;
+	border: solid 2px #34495e;
+	padding: 45px 50px 25px 60px;
+	background-color: rgba(72,126,176, .05);
+	border-radius: 10px;
+}
+
+.profile{
+	height: 150px;
+}
+
+.post-txt {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+
+.arrow-down {
+    width: 0;
+    height: 0;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 20px solid #34495e;
+    margin-left: 85px
+}
+
+.fit-image {
+    width: 100%;
+    object-fit: cover
+}
+
+.profile-pic {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    left: 65px;
+    margin-top: 15px
+}
+
+.profile-name {
+    font-size: 18px;
+    color: #616161
+}
+
+.profile-name .name{
+	color: black;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+.quote-symbol{
+	font-size: 65px;
+	font-family: 'Kaushan Script', cursive;
+	color: #34495e;
+	margin-right: 15px;
+	margin-left: -15px;
+	display: inline-block;
+}
+
 /* About Page */
 
 .briefAbout{
