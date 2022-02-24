@@ -19,9 +19,8 @@
 
 .testi{
 	position: relative;
-	border: solid 2px #34495e;
 	padding: 45px 50px 25px 60px;
-	background-color: rgba(72,126,176, .05);
+	background-color: rgba(72,126,176, .15);
 	border-radius: 10px;
 }
 
@@ -39,7 +38,7 @@
     height: 0;
     border-left: 25px solid transparent;
     border-right: 25px solid transparent;
-    border-top: 20px solid #34495e;
+    border-top: 20px solid rgba(72,126,176, .15);
     margin-left: 85px
 }
 
